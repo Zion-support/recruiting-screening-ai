@@ -1,32 +1,32 @@
-# Recruiting Screening AI 🤝
+# 🎯 Recruiting Screening AI
 
-**Fair, explainable candidate screening, interview kits and pipeline analytics for hiring teams.**
+Fair, explainable candidate screening, interview kits and pipeline analytics — part of the **Zion Tech Group AI App Network** (320+ free flagship apps).
 
-Part of the **Zion App Network — Batch 62 (HR & Workforce AI)** by [Zion Tech Group](https://ziontechgroup.com/).
+- 🌐 Live app: https://ziontechgroup.com/recruiting-screening-ai/
+- 🧭 Free Discovery (online & free, instant results emailed to you): https://ziontechgroup.com/discovery/
+- 🗂️ Network hub: https://github.com/Zion-support/zion-network · Showcase: https://ziontechgroup.com/apps/network.html
 
-- 🌐 Live page: https://ziontechgroup.com/recruiting-screening-ai/
-- 🗂️ App Network hub: https://github.com/Zion-support/zion-network · https://network.ziontechgroup.com
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
+## What it does
+Resume parsing and structured scoring rubrics; bias-aware, explainable screening decisions; auto-generated interview kits per role; pipeline analytics and time-to-hire dashboards; ATS integrations and CSV exports. Hands off to [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot) after hire.
 
-## Features
-- Resume parsing and structured scoring rubrics
-- Bias-aware, explainable screening decisions
-- Auto-generated interview kits per role
-- Pipeline analytics and time-to-hire dashboards
-- ATS integrations and CSV exports
+## Key features
+- Explainable scores with rubric citations
+- Bias audits and adverse-impact reporting
+- ATS connectors (Greenhouse, Lever, Workable) + API
 
-## Batch 62 — HR & Workforce AI (sibling apps)
-- [hr-onboarding-copilot](https://github.com/Zion-support/hr-onboarding-copilot) — https://ziontechgroup.com/hr-onboarding-copilot/
-- [shift-scheduler-ai](https://github.com/Zion-support/shift-scheduler-ai) — https://ziontechgroup.com/shift-scheduler-ai/
-- [skills-gap-analyzer](https://github.com/Zion-support/skills-gap-analyzer) — https://ziontechgroup.com/skills-gap-analyzer/
-- [payroll-anomaly-detector](https://github.com/Zion-support/payroll-anomaly-detector) — https://ziontechgroup.com/payroll-anomaly-detector/
-- [employee-sentiment-pulse](https://github.com/Zion-support/employee-sentiment-pulse) — https://ziontechgroup.com/employee-sentiment-pulse/
+## HR & Workforce AI suite (Batch 72)
+| App | Focus |
+|---|---|
+| [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai) | Fair, compliant scheduling |
+| **Recruiting Screening AI** (this repo) | Bias-aware candidate screening |
+| [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse) | Engagement analytics |
+| [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot) | Guided onboarding |
 
-## Related apps across the network
-- [hr-onboarding-copilot](https://github.com/Zion-support/hr-onboarding-copilot) — hire-to-onboard handoff
-- [skills-gap-analyzer](https://github.com/Zion-support/skills-gap-analyzer) — role skill profiles
-- [policy-writer-ai](https://github.com/Zion-support/policy-writer-ai) — hiring policy templates
+## Adjacent suites
+- **Energy & Facilities AI:** [Energy Consumption Forecaster](https://github.com/Zion-support/energy-consumption-forecaster) · [Solar ROI Optimizer](https://github.com/Zion-support/solar-roi-optimizer) · [Grid Demand Balancer](https://github.com/Zion-support/grid-demand-balancer) · [Building Efficiency Auditor](https://github.com/Zion-support/building-efficiency-auditor)
+- **ITOps AI:** [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor) · [AI Capacity Planner](https://github.com/Zion-support/ai-capacity-planner) · [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) · [AI Backup Integrity](https://github.com/Zion-support/ai-backup-integrity)
 
 ---
-© 2026 Zion Tech Group · https://ziontechgroup.com/ · Start with a [$99 Discovery](https://ziontechgroup.com/discovery/)
+- 🏠 https://ziontechgroup.com · 💰 Plans: https://ziontechgroup.com/en/plans/ · 💼 commercial@ziontechgroup.com
+
+© 2026 Zion Tech Group — MIT
